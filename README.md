@@ -1,0 +1,1 @@
+Analisis de los alojamientos turísticos de Madrid publicados en Airbnb para identificar los factores que influyen en el precio por noche, evaluando la ubicación, el tipo de alojamiento y la capacidad.
