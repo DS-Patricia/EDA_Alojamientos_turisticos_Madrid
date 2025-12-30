@@ -17,14 +17,11 @@ La hipótesis principal del proyecto es:
 **Las diferencias de valoraciones y frecuencia de uso de los pisos turísticos pueden explicarse principalmente por el precio, la ubicación, el tipo de alojamiento, las características del anuncio y la época del año**
 
 Preguntas adicionales:  
-- ¿Qué barrios concentran más oferta de alojamientos?  x
-- ¿Qué zonas presentan los precios más altos?  x
-- ¿Existen diferencias entre anfitriones particulares y multi-hosts? x 
-
+- ¿Qué barrios concentran más oferta de alojamientos?
+- ¿Qué zonas presentan los precios más altos? 
+- ¿Existen diferencias entre anfitriones particulares y multi-hosts?  
 - ¿Existen zonas desaprovechadas (zonas con muy poca densidad de oferta pero mucho índice de beneficio)?
 - ¿Existen zonas sobreexplotadas (zonas con muy mucha densidad de oferta pero poco índice de beneficio)?
-- ¿Las características de los pisos turísticos con más éxito varían en base a la ubicación u otros factores relacionados?
-- ¿Son los pisos turísticos con precios más altos los que reportan mayores beneficios?
 
 ---
 
