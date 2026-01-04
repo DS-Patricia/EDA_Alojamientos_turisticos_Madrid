@@ -11,9 +11,10 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre los alojami
 ## 🧭 Flujo del proyecto (EDA)
 
 El siguiente diagrama resume las principales etapas seguidas en el desarrollo del
-análisis exploratorio de datos (EDA), desde la carga y limpieza del dataset hasta
-la obtención de conclusiones.
+análisis exploratorio de datos (EDA), desde la carga y limpieza del conjunto de datos
+hasta la obtención de conclusiones.
 
+```mermaid
 flowchart TD
     A[Inicio del proyecto<br/>Objetivo del EDA]
     B[Carga de datos<br/>listings.csv]
@@ -24,6 +25,7 @@ flowchart TD
     G[Resultados y conclusiones]
 
     A --> B --> C --> D --> E --> F --> G
+
 
 
 ## 🔍 Hipótesis planteada  
