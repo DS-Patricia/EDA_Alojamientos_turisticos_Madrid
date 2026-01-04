@@ -8,6 +8,23 @@
 Este proyecto realiza un análisis exploratorio de datos (EDA) sobre los alojamientos turísticos de Madrid utilizando el dataset público de Inside Airbnb. El objetivo es comprender cómo se distribuye la oferta dentro de la ciudad, cómo varían los precios y qué factores parecen influir en dichas variaciones.
 
 ---
+## 🧭 Flujo del proyecto (EDA)
+
+El siguiente diagrama resume las principales etapas seguidas en el desarrollo del
+análisis exploratorio de datos (EDA), desde la carga y limpieza del dataset hasta
+la obtención de conclusiones.
+
+flowchart TD
+    A[Inicio del proyecto<br/>Objetivo del EDA]
+    B[Carga de datos<br/>listings.csv]
+    C[Exploración inicial<br/>estructura y nulos]
+    D[Limpieza y preparación<br/>price, log_price]
+    E[Análisis EDA<br/>univariante y bivariante]
+    F[Análisis geográfico<br/>barrios y precios]
+    G[Resultados y conclusiones]
+
+    A --> B --> C --> D --> E --> F --> G
+
 
 ## 🔍 Hipótesis planteada  
 La hipótesis principal del proyecto es:
