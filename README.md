@@ -32,7 +32,7 @@ flowchart TD
 ## 🔍 Hipótesis planteada  
 La hipótesis principal del proyecto es:
 
-> **Las diferencias de precio entre los alojamientos turísticos en Madrid pueden explicarse principalmente por la ubicación, el tipo de alojamiento y las características del anuncio.**
+**Las diferencias de precio entre los alojamientos turísticos en Madrid pueden explicarse principalmente por la ubicación, el tipo de alojamiento y las características del anuncio.**
 
 **Las diferencias de valoraciones y frecuencia de uso pueden estar relacionadas con el precio, la ubicación, el tipo de alojamiento y las características del anuncio.**
 
