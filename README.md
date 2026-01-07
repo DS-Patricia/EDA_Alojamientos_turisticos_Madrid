@@ -32,9 +32,9 @@ flowchart TD
 ## 🔍 Hipótesis planteada  
 La hipótesis principal del proyecto es:
 
-> **Las diferencias de precio entre los alojamientos turísticos en Madrid pueden explicarse principalmente por la ubicación, el tipo de alojamiento, las características del anuncio y la época del año.**
+> **Las diferencias de precio entre los alojamientos turísticos en Madrid pueden explicarse principalmente por la ubicación, el tipo de alojamiento y las características del anuncio.**
 
-**Las diferencias de valoraciones y frecuencia de uso de los pisos turísticos pueden explicarse principalmente por el precio, la ubicación, el tipo de alojamiento, las características del anuncio y la época del año**
+**Las diferencias de valoraciones y frecuencia de uso pueden estar relacionadas con el precio, la ubicación, el tipo de alojamiento y las características del anuncio.**
 
 Preguntas adicionales:  
 - ¿Qué barrios concentran más oferta de alojamientos?
@@ -82,17 +82,13 @@ git clone https://github.com/usuario/EDA-Alojamiento-Madrid.git
 cd EDA-Alojamiento-Madrid
 ```
 
-### 2. Crear entorno e instalar dependencias  
-```
-pip install -r requirements.txt
-```
-
-### 3. Abrir el notebook  
+### 2. Abrir el notebook principal
+  
 ```
 jupyter notebook main.ipynb
 ```
 
-### 4. Ejecutar el análisis  
+### 3. Ejecutar el análisis  
 Seguir las celdas del notebook en orden:  
 - Carga del dataset  
 - Limpieza y preprocesado  
