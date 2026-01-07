@@ -106,10 +106,13 @@ Seguir las celdas del notebook en orden:
 
 ---
 
-## 👥 Autores  
-- **Patricia García Rabasco**  
-- **Javier López Cervino**  
-- **Pilar Gutiérrez Giménez**
+## 👥 Autores    
+
+- **Patricia García Rabasco** — GitHub: [DS-Patricia](https://github.com/DS-Patricia)  
+- **Javier López Cervino** — GitHub: [javierlopezcervino](https://github.com/javierlopezcervino)  
+- **Pilar Gutiérrez Giménez** — GitHub: [pilargg-web](https://github.com/pilargg-web)
+  
+
 
 ---
 
